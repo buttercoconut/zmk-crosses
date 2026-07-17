@@ -79,10 +79,10 @@
         media_layer {
             display-name = "Media";
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans       &trans  &trans  &trans          &trans         &trans           &trans
-&trans  &trans  &trans  &trans  &trans  &trans       &trans  &trans  &trans          &trans         &kp RIGHT_SHIFT  &trans
-&trans  &trans  &trans  &trans  &trans  &trans       &trans  &trans  &kp LANGUAGE_1  &kp RIGHT_ALT  &kp RCTRL        &trans
-                        &trans  &trans  &kp SPACE    &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans     &trans    &trans  &trans  &trans          &trans         &trans           &trans
+&trans  &trans  &trans  &trans  &trans     &trans    &trans  &trans  &trans          &trans         &kp RIGHT_SHIFT  &trans
+&trans  &trans  &trans  &trans  &trans     &trans    &trans  &trans  &kp LANGUAGE_1  &kp RIGHT_ALT  &kp RCTRL        &trans
+                        &trans  &kp SPACE  &trans    &trans  &trans  &trans
             >;
         };
 

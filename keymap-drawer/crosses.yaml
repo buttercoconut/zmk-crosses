@@ -217,10 +217,10 @@ layers:
   - .
   Symbols:
   - {t: '$$mdi:transfer$$', type: trans}
-  - '{'
+  - '?'
   - '&'
   - '*'
-  - (
+  - '{'
   - '}'
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
